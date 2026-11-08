@@ -2,7 +2,7 @@
 using lesson2_online_shop.Enums; // Подключаем папки основного проекта, чтобы тест увидел наши модели данных
 using lesson2_online_shop.Models;
 
-namespace lesson3_loyalty_system_Tests
+namespace lesson2_online_shop_Tests
 {
     public class UnitTest1
     {
