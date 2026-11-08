@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../lesson3_loyality_system_Tests/lesson3_loyalty_system_Tests.csproj" />
+  <Project Path="lesson3_loyalty_system.csproj" />
+</Solution>
